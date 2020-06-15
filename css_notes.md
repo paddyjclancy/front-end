@@ -51,7 +51,7 @@ _____________________________________________
 Choose one colour, use a gray scale, avoid full black backgrounds / text
 
 - Colour Hunt
-- Colours.io
+- Coolors.co
 - Extension
 
 Text:
