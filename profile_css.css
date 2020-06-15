@@ -1,0 +1,63 @@
+
+body{
+	margin: 30px;
+	border-width: 5px;
+	padding: 50px;
+	background-color: #7395AE;
+	font-family: Georgia, serif;
+
+}
+
+h1{
+	font-size: 50px;
+	color: #2E1114;
+}
+
+h2{
+	font-size: 35;
+	text-align: center;
+	color: #2E1114;
+}
+
+P{
+	color: #2E1114;
+}
+
+img{
+	border: solid 3px #5D5C61;
+}
+
+.headline{
+	border-width: 5px;
+	padding: 15px;
+	text-align: center;
+	background-color: #557A95;
+	border: solid 5px #7395AE;
+	border-radius: 15px 50px;
+}
+
+#logo{
+	border-radius: 15px 50px;
+}
+
+.technical-skills{
+	border-width: 5px;
+	padding: 25px;
+	background-color: #557A95;
+	color: #2E1114;
+	border: solid #7395AE;
+	border-width: 50px 300px;
+	border-radius: 15px 50px;
+}
+
+.hobbies, .hobbies_invert{
+	border: solid 5px #7395AE;
+	padding: 40px;
+	background-color: #557A95;
+	color: #2E1114;
+	border-radius: 15px 50px;
+}
+
+.hobbies_invert{
+	text-align: right;
+}
