@@ -26,6 +26,8 @@ Defines structure, including tab title (metadata)
 
 		<meta name="description" content="Descriptive text regarding Patrick">
 
+		<link rel="stylesheet" type="text/css" href="css.md">    <-- CSS
+
 	</head>
 	<body>
 		<h1>Heading</h1>
