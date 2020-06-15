@@ -62,10 +62,13 @@ Text:
 
 - Section areas made using <div> </div> (divides)
 - Classes created from this:	<div class="Hobbies">
+- ID like class but for one instance only
 - Padding around objects
 
 <div class="section-white">
 </div>
+
+<img id="logo" src="img_logo.jpg">
 
 Box Model:
 	- Margin
